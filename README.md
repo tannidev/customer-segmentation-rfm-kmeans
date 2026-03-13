@@ -16,7 +16,7 @@ This project was built to answer questions like:
 
 ## Dataset
 - **File used:** `online_retail_II.xlsx`
-- **Source:** [Add Kaggle dataset link here](PASTE_KAGGLE_LINK_HERE)
+- **Source:** Kaggle
 - **Note:** The raw dataset is not included in this repository.
 
 ## Tools Used
